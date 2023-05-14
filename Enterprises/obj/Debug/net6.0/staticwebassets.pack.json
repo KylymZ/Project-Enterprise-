@@ -1,0 +1,245 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\IconsApp.png",
+      "PackagePath": "staticwebassets\\IconsApp.png"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\css\\layout-rtl.css",
+      "PackagePath": "staticwebassets\\css\\layout-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\css\\layout-rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\layout-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\css\\layout.css",
+      "PackagePath": "staticwebassets\\css\\layout.css"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\css\\layout.min.css",
+      "PackagePath": "staticwebassets\\css\\layout.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\img\\1920x1080\\Фон.jpg",
+      "PackagePath": "staticwebassets\\img\\1920x1080\\Фон.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\img\\397x300\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\397x300\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\img\\397x400\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\397x400\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\img\\500x500\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\500x500\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\img\\500x500\\02.jpg",
+      "PackagePath": "staticwebassets\\img\\500x500\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\img\\500x500\\03.jpg",
+      "PackagePath": "staticwebassets\\img\\500x500\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\img\\800x400\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\800x400\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\img\\970x647\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\970x647\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\img\\970x647\\02.jpg",
+      "PackagePath": "staticwebassets\\img\\970x647\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\img\\970x647\\03.jpg",
+      "PackagePath": "staticwebassets\\img\\970x647\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\img\\logo-dark.png",
+      "PackagePath": "staticwebassets\\img\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\js\\components\\maginific-popup.js",
+      "PackagePath": "staticwebassets\\js\\components\\maginific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\js\\components\\maginific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\maginific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\js\\components\\masonry.js",
+      "PackagePath": "staticwebassets\\js\\components\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\js\\components\\masonry.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\masonry.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\js\\components\\swiper.js",
+      "PackagePath": "staticwebassets\\js\\components\\swiper.js"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\js\\components\\swiper.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\js\\components\\wow.js",
+      "PackagePath": "staticwebassets\\js\\components\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\js\\components\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\js\\layout.js",
+      "PackagePath": "staticwebassets\\js\\layout.js"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\js\\layout.min.js",
+      "PackagePath": "staticwebassets\\js\\layout.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\bootstrap\\js\\npm.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\npm.js"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\jquery-migrate.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery-migrate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\jquery.back-to-top.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery.back-to-top.js"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\jquery.easing.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery.easing.js"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\jquery.smooth-scroll.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery.smooth-scroll.js"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\jquery.wow.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery.wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\simple-line-icons\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\vendor\\simple-line-icons\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\simple-line-icons\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\vendor\\simple-line-icons\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\simple-line-icons\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\vendor\\simple-line-icons\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\simple-line-icons\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\vendor\\simple-line-icons\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\simple-line-icons\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\vendor\\simple-line-icons\\fonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\zenis\\Рабочий стол\\Jobs\\EF Core\\Enterprises\\Enterprises\\wwwroot\\vendor\\simple-line-icons\\fonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\simple-line-icons\\fonts\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Enterprises.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Enterprises.props",
+      "PackagePath": "build\\Enterprises.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Enterprises.props",
+      "PackagePath": "buildMultiTargeting\\Enterprises.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Enterprises.props",
+      "PackagePath": "buildTransitive\\Enterprises.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

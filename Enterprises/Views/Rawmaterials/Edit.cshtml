@@ -1,0 +1,67 @@
+﻿@model Enterprises.Rawmaterials
+
+@{
+    ViewData["Title"] = "Изменение";
+}
+
+
+<style>
+    h1, h4 {
+        text-align: left;
+        color: aqua;
+    }
+
+    .row {
+        font-size: 18px;
+        width: auto;
+        color: #ffffff;
+    }
+</style>
+
+<div class="promo-block">
+    <div class="container">
+        <div class="margin-b-40">
+            <div class="text-center">
+                <h1 class="display-4">Предприятия по производству кондитерских изделий</h1>
+            </div>
+            <br /><h1>Изменение</h1>
+
+            <h4>Сырье</h4>
+            <hr />
+            <div class="row">
+                <div class="col-md-4">
+                    <form asp-action="Edit">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="Id" />
+                        <div class="form-group">
+                            <label asp-for="Name" class="control-label">Название</label>
+                            <input asp-for="Name" class="form-control" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Unit" class="control-label">Ед.измерения</label>
+                            <select asp-for="Unit" class="form-control" asp-items="ViewBag.Unit"></select>
+                            <span asp-validation-for="Unit" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Sum" class="control-label">Сумма</label>
+                            <input asp-for="Sum" class="form-control" />
+
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="CountRawm" class="control-label">Количество</label>
+                            <input asp-for="CountRawm" class="form-control" />
+
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" value="Сохранить" class="btn btn-success" />
+                        </div>
+                        <div class="form-group">
+                            <a asp-action="Index" class="btn btn-primary">Назад</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>

@@ -1,0 +1,212 @@
+﻿<meta charset="utf-8">
+@model IEnumerable<Enterprises.SalaryEmp>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<style>
+    a {
+        /*        text-align:left;
+    */ text-decoration: none;
+        color: green;
+    }
+
+    h1 {
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .container {
+        background-color: #d9d9d9;
+    }
+
+    tbody {
+        text-align: left;
+    }
+
+    p {
+        text-align: left;
+        color: red;
+        font-size: 30px;
+    }
+    .allsumm{
+        text-align:left;
+       
+    }
+    em {
+        color: green;
+        text-align: left;
+        font-size: 20px;
+    }
+    .child {
+       
+        float: left;
+       
+        margin-left: 2%;
+        margin-right: 2%;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+       
+    }
+    #Ye, #Mo {
+        font-size: 18px;
+        color: forestgreen;
+        border-radius: 10px;
+        font-family:'Times New Roman', Times, serif;
+    }
+    #all, #Zp {
+        background-color: #262d52;
+        font-size: 18px;
+        font-family: 'Times New Roman', Times, serif;
+        color: green;
+        padding-top: 10%;
+        width: auto;
+        text-align: center;
+    }
+        #all:hover{
+            color:beige;
+        }
+        #Zp:hover {
+            color: beige;
+        }
+        .child:last-child {
+            margin-right: 0;
+        }
+</style>
+
+<div class="promo-block">
+    <div class="container">
+        <div class="margin-b-45 margin-r-50">
+            <div class="text-center">
+                <h1 class="display-4">Предприятия по производству кондитерских изделий</h1>
+            </div>
+            <br />
+            <h2>Зарплата</h2>
+            <br />
+            <div class="Error">
+                <p>@ViewBag.AddMessege</p>
+            </div>
+            <form asp-action="IndexCopyAdd" name="frm">
+                <div class="parent">
+                    <div class="child">
+                        @Html.DropDownList("yearString", ViewBag.Year as SelectList, "Выберите год", new { @id = "Ye", @class = "form-control", style = "width:auto;" })
+                    </div>
+                    <div class="child">
+                        @Html.DropDownList("monthString", ViewBag.Month as SelectList, "Выберите месяц", new { @id = "Mo", @class = "form-control", style = "width:auto;" })
+
+                    </div>
+                    <div class="child">
+                        <button type="submit" asp-action="IndexCopyAdd" id="Zp" class="btn btn-dark accept-policy">Выдать зарплату</button>
+                    </div>
+                    <div class="child">
+                        <a asp-action="Index" id="all" class="btn btn-dark">Все записи</a>
+                    </div>
+                </div>
+                <br />
+             
+            </form>
+            <br />
+            <hr />
+            <table class="table" align="left">
+                <thead class="tbl">
+                    <tr>
+                        <th>
+                            Год
+                        </th>
+                        <th>
+                            Месяц
+                        </th>
+                        <th>
+                            Сотрудник
+                        </th>
+                        <th>
+                            Уч.в закупке
+                        </th>
+                        <th>
+                            Уч.в продаже
+                        </th>
+                        <th>
+                            Уч.в производстве
+                        </th>
+                        <th>
+                            Общее кол.участий
+                        </th>
+                        <th>
+                            Оклад
+                        </th>
+                        <th>
+                            Бонус
+                        </th>
+                        <th>
+                            Общ.сумма выдачи
+                        </th>
+                        <th>
+                            Выдано/Не выдано
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.YearNavigation.YearName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.MonthNavigation.MonthName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.EmployeeNavigation.Fullname)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ParticipationPurchase)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ParticipationSale)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ParticipationProduction)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.CountParticipation)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.SalaryEmployee)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Bonus)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TotalAmount)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Issued)
+                            </td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <div class="allsumm">
+                <h4>Общая сумма всех сотрудников:  <em>@ViewBag.Summa</em></h4>
+            </div>
+        </div>
+        </div>
+    </div>
+
+            <script>
+                $("#Mo").change(function () {
+                    $("#Mo").val = $("#Mo");
+
+                    let form = document.forms.frm
+                    form.submit();
+
+                });
+            </script>
+
+           
+

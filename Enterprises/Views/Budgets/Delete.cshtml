@@ -1,0 +1,64 @@
+﻿@model Enterprises.Budgets
+
+@{
+    ViewData["Title"] = "Удаление";
+}
+
+
+<style>
+    h1, h4 {
+        text-align: left;
+        color: aqua;
+    }
+
+    .row {
+        font-size: 18px;
+        width: auto;
+        color: #ffffff;
+    }
+</style>
+
+<div class="promo-block">
+    <div class="container">
+        <div class="margin-b-40">
+            <div class="text-center">
+                <h1 class="display-4">Предприятия по производству кондитерских изделий</h1>
+            </div>
+            <br />  <h1>Удаление</h1>
+            <div>
+                <h4>Бюджет</h4>
+                <hr />
+                <dl class="row">
+                    <dt class="col-sm-2">
+                        Сумма бюджета
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Budgetamount)
+                    </dd>
+                    <dt class="col-sm-2">
+                        Процент продажи
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.SalePercentage)
+                    </dd>
+                    <dt class="col-sm-2">
+                        Бонус
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Bonus)
+                    </dd>
+                </dl>
+
+                <form asp-action="Delete">
+                    <input type="hidden" asp-for="Id" />
+                    <input type="submit" value="Удалить" class="btn btn-danger" />
+                </form>
+            </div>
+            <br />
+            <div>
+                <a asp-action="Index" class="btn btn-primary" style="font-size:20px;">Назад</a>
+            </div>
+        </div>>
+        </div>
+    </div>
+          

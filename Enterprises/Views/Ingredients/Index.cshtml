@@ -1,0 +1,121 @@
+﻿@model IEnumerable<Enterprises.Ingredients>
+
+@{
+    ViewData["Title"] = "Ингредиенты";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    a {
+        /*        text-align:left;
+    */ text-decoration: none;
+        color: green;
+    }
+
+    h1 {
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .container {
+        background-color: #d9d9d9;
+    }
+
+    tbody {
+        text-align: left;
+    }
+
+    p, a:hover {
+        color: black;
+    }
+
+    .Button-2 {
+        margin-top: 20px;
+        margin-right: 1200px;
+        background-color: #262d52;
+        color: green;
+        font-size: 20px;
+        border-radius: 10px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    #Selectt {
+        background-color: #f6efef;
+        color: #13d413;
+        font-size: 18px;
+        border-radius: 10px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+</style>
+
+<div class="promo-block">
+    <div class="container">
+        <div class="margin-b-40">
+            <div class="text-center">
+                <h1 class="display-4">Предприятия по производству кондитерских изделий</h1>
+            </div>
+            <br /><h2>Ингредиенты</h2>
+            <form asp-action="Index" method="get" name="frm">
+                <div class="form-actions no-color">
+                    @Html.DropDownList("SearchString", ViewBag.Product as SelectList, "Все продукты", new { @id = "Selectt", @class = "form-control", style = "width: 20%;" })
+                </div>
+            </form>
+            <form asp-action="Create" method="get" class="frmadd">
+                <input type="hidden" id="IDProduct" name="ID" />
+                <input type="submit" value="Добавить новую запись" onclick="func()" class="btn btn-dark Button-2">
+            </form>
+            <br />
+            <table class="table">
+                <thead>
+                    <tr>
+
+                        <th>
+                            Сырье
+                        </th>
+
+                        <th>
+
+                            Количесто ингредиентов
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody >
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.RawMaterialsNavigation.Name)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Countingred)
+                            </td>
+
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@item.Id">Обновить</a> |
+                                <a asp-action="Delete" asp-route-id="@item.Id">Удалить</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    $("#Selectt").change(function () {
+        $("Selectt").val = $("Selectt");
+        let form = document.forms.frm
+        form.submit();
+    });
+
+    function func() {
+        let select = $('#Selectt option:selected').val();
+        let input = document.querySelector("#IDProduct");
+        input.value = select;
+    }
+
+</script>
+

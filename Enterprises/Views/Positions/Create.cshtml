@@ -1,0 +1,51 @@
+﻿@model Enterprises.Positions
+
+@{
+    ViewData["Title"] = "Добавление";
+}
+
+<style>
+    h1, h4 {
+        text-align: left;
+        color: aqua;
+    }
+
+    .row {
+        font-size: 18px;
+        width: auto;
+        color: #ffffff;
+    }
+</style>
+
+<div class="promo-block">
+    <div class="container">
+        <div class="margin-b-40">
+            <div class="text-center">
+                <h1 class="display-4">Предприятия по производству кондитерских изделий</h1>
+            </div>
+            <br /> <h1>Создание новой записи</h1>
+            <h4>Сотрудники</h4>
+            <hr />
+            <div class="row">
+                <div class="col-md-4">
+                    <form asp-action="Create">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group">
+                            <label asp-for="Position" class="control-label">Должность</label>
+                            <input asp-for="Position" class="form-control" />
+                            <span asp-validation-for="Position" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" value="Добавить" class="btn btn-success" />
+                        </div>
+                        <div class="form-group">
+                            <a asp-action="Index" class="btn btn-primary">Назад</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+
+

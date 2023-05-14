@@ -1,0 +1,98 @@
+﻿@model IEnumerable<Enterprises.PurchaseOfrawmaterials>
+
+@{
+    ViewData["Title"] = "Закупка";
+}
+
+<style>
+    a {
+        /*        text-align:left;
+    */ text-decoration: none;
+        color: green;
+    }
+
+    h1 {
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .container {
+        background-color: #d9d9d9;
+    }
+
+    tbody {
+        text-align: left;
+    }
+
+    p, a:hover {
+        color: black;
+    }
+
+    p {
+        text-align: left;
+    }
+</style>
+
+<div class="promo-block">
+    <div class="container">
+        <div class="margin-b-40">
+            <div class="text-center">
+                <h1 class="display-4">Предприятия по производству кондитерских изделий</h1>
+            </div>
+            <br /><h2>Закупка сырья</h2>
+            <p>
+                <a asp-action="Create">Добавить новую запись</a>
+            </p>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            Количество
+                        </th>
+                        <th>
+                            Сумма
+                        </th>
+                        <th>
+                            Дата
+                        </th>
+                        <th>
+                            Сотрудник
+                        </th>
+                        <th>
+                            Сырье
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.CountPur)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Sum)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Date)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.EmployeeNavigation.Fullname)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.RawMaterialsNavigation.Name)
+                            </td>
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@item.Id">Обновить</a> |
+                                <a asp-action="Delete" asp-route-id="@item.Id">Удалить</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        </div>
+    </div>
+
+         

@@ -1,0 +1,229 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Enterprises
+build_property.RootNamespace = Enterprises
+build_property.ProjectDir = C:\Users\zenis\Рабочий стол\Jobs\EF Core\Enterprises\Enterprises\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\zenis\Рабочий стол\Jobs\EF Core\Enterprises\Enterprises
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Budgets/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVkZ2V0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Budgets/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVkZ2V0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Budgets/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVkZ2V0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Budgets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVkZ2V0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Employees/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Employees/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Employees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Finproducts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlucHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Finproducts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlucHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Finproducts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlucHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Finproducts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlucHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Ingredients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Ingredients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Ingredients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Ingredients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Ingredients/IndexCopy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudHNcSW5kZXhDb3B5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Positions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Positions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Positions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Positions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Productions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdGlvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Productions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdGlvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Productions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdGlvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Productions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdGlvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/PurchaseOfrawmaterials/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVyY2hhc2VPZnJhd21hdGVyaWFsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/PurchaseOfrawmaterials/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVyY2hhc2VPZnJhd21hdGVyaWFsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/PurchaseOfrawmaterials/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVyY2hhc2VPZnJhd21hdGVyaWFsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/PurchaseOfrawmaterials/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVyY2hhc2VPZnJhd21hdGVyaWFsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Rawmaterials/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF3bWF0ZXJpYWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Rawmaterials/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF3bWF0ZXJpYWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Rawmaterials/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF3bWF0ZXJpYWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Rawmaterials/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF3bWF0ZXJpYWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/SalaryEmps/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5RW1wc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/SalaryEmps/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5RW1wc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/SalaryEmps/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5RW1wc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/SalaryEmps/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5RW1wc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/SalaryEmps/IndexCopyAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5RW1wc1xJbmRleENvcHlBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Saleofproducts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZW9mcHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Saleofproducts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZW9mcHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Saleofproducts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZW9mcHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Saleofproducts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZW9mcHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Units/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Units/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Units/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/Units/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zenis/Рабочий стол/Jobs/EF Core/Enterprises/Enterprises/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
